@@ -1,0 +1,5 @@
+/hw0-windows/hw0-windows/*.dll
+/hw0-windows/hw0-windows/*.obj
+/hw0-windows/.vs
+/hw0-windows/hw0-windows/lib/*.lib
+/hw0-windows/packages
